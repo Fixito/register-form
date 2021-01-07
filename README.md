@@ -23,7 +23,7 @@
 
 ## Overview
 
-![screenshot](img/overview.png)
+![screenshot](img/overview.PNG)
 
 The goal of this project is to build a beautiful login/registration form using grid, flex, media query, transition, etc...
 
