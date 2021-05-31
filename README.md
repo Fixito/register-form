@@ -1,4 +1,4 @@
-<h1 align="center">{Registration Form}</h1>
+<h1 align="center">Registration Form</h1>
 
 <div align="center">
    Tutorial project from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
